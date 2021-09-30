@@ -1,6 +1,6 @@
 {
   "name": "@enspirit/eslint-config-angular",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Eslint config for Enspirit's angular projects",
   "keywords": [
     "eslint",
@@ -10,7 +10,7 @@
   "author": "Louis Lambeau",
   "main": "index.js",
   "dependencies": {
-    "@enspirit/eslint-config-node": "^0.0.6"
+    "@enspirit/eslint-config-node": "^0.1.0"
   },
   "devDependencies": {
     "eslint": "^7.1.0",
